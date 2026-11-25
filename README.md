@@ -80,10 +80,21 @@ ________________________________________
 ________________________________________
 # Output (Attach Screenshots)
 •	Console connection to router<br>
+<img width="1600" height="851" alt="image" src="https://github.com/user-attachments/assets/e9bff156-dcdc-4b70-abbc-0632308ea1c7" />
+
 •	Running configuration before and after<br>
+<img width="957" height="1017" alt="image" src="https://github.com/user-attachments/assets/87236bd2-a6ba-428a-a8e6-7cc46a895162" />
+<img width="957" height="1017" alt="image" src="https://github.com/user-attachments/assets/41dffa1a-52fa-4b58-a6bd-9684eddae526" />
+
 •	MOTD banner display<br>
+<img width="947" height="1017" alt="WhatsApp Image 2026-11-25 at 6 20 54 PM" src="https://github.com/user-attachments/assets/2fbf6d13-f387-4023-8743-6447f3cd19a6" />
+
 •	Password prompts<br>
+<img width="957" height="1017" alt="image" src="https://github.com/user-attachments/assets/05ede994-73ed-4f62-a483-f2ef85db924b" />
+
 •	Saved configuration in NVRAM and flash<br>
+<img width="957" height="1012" alt="image" src="https://github.com/user-attachments/assets/2ad119e8-b227-4f9a-9e97-eccde28f37b5" />
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
